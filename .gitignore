@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Cypress output
+cypress/videos/
+cypress/screenshots/
+
+# Builds
+dist/
+build/
+
+# Archivos temporales
+*.log
+.env
+.DS_Store
